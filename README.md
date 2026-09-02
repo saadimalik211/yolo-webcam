@@ -20,8 +20,8 @@ Real-time object detection and tracking using YOLOv8 on Apple Silicon via a MacB
 
 1. Clone the repo and move into it:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/saadimalik211/yolo-webcam.git
+   cd yolo-webcam
 ```
 
 2. Create and activate a virtual environment:
